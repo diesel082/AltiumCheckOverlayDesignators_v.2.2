@@ -58,7 +58,7 @@ The script is distributed in three language versions — the checking algorithm 
 
 | File | Message language |
 |---|---|
-| [CheckOverlayDesignators v.2.2_EN.zip](./Scrips/CheckOverlayDesignators v.2.2_EN.zip) | English |
+| [CheckOverlayDesignators v.2.2_EN.zip](./Scripts/CheckOverlayDesignators v.2.2_EN.zip) | English |
 | `CheckOverlayDesignators v.2.2_RU.zip` | Russian |
 | `CheckOverlayDesignators v.2.2_UA.zip` | Ukrainian |
 
