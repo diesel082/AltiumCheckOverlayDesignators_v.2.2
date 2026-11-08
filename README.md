@@ -41,7 +41,7 @@ A Designator text rotated upside down or sideways is considered unreadable:
 
 The script requires no installation: simply attach the `.pas` file via the **Files → Run Script** panel (DXP → Run Script) in Altium Designer.
 
-![How to attach and run the script](./img/CheckOverlayDesignators v.2.2_UA.zip)
+![How to attach and run the script](./img/Fig1_Run_Script.jpg)
 
 *Attaching and running the script via the Altium Designer panels.*
 
@@ -58,7 +58,7 @@ The script is distributed in three language versions — the checking algorithm 
 
 | File | Message language |
 |---|---|
-| `CheckOverlayDesignators v.2.2_EN.zip` | English |
+| `[CheckOverlayDesignators v.2.2_EN.zip](./Scrips/CheckOverlayDesignators v.2.2_EN.zip)` | English |
 | `CheckOverlayDesignators v.2.2_RU.zip` | Russian |
 | `CheckOverlayDesignators v.2.2_UA.zip` | Ukrainian |
 
